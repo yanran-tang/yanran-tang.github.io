@@ -12,29 +12,26 @@ redirect_from:
 Education
 ======
 * B.S. in Detection Guidance and Control Technology, Beihang University, 2018
-;* M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Computer Science, The University of Queensland, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 07/2017 -- 06/2018 Research Intern, Horizon Robotics Inc.
+  * Worked with the reinforcement learning team to do research about model-based DRL and autonomous driving.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2016 -- 05/2017 Research Student, [LEVIR Lab](http://levir.buaa.edu.cn/)
+  * Worked on scene text detection and remote sensing detection.
+
+* 07/2016 -- 09/2016 Algorithm Engineer Intern, Swie Inc.
+  * Developed a vision detection and classification system for scolds on PCB.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Language 1
+  * Mandarin Chinese and Cantonese (Both native), English
+* Language 2
+  * C++, Python, MATLAB
+  * PyTorch, TensorFlow
 
 Publications
 ======
@@ -54,6 +51,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruihong Qiu"
-  avatar           : "/images/qrh.jpg"
+  avatar           : "qrh.jpg"
   bio              : "PhD student at The University of Queensland"
   location         : "Brisbane, Australia"
   employer         :
