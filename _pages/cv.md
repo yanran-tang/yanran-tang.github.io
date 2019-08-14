@@ -24,14 +24,6 @@ Work experience
 
 * 07/2016 -- 09/2016 Algorithm Engineer Intern, Swie Inc.
   * Developed a vision detection and classification system for scolds on PCB.
-  
-Skills
-======
-* Language 1
-  * Mandarin Chinese and Cantonese (Both native), English
-* Language 2
-  * C++, Python, MATLAB
-  * PyTorch, TensorFlow
 
 Publications
 ======
@@ -39,11 +31,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+;Talks
+;======
+;  <ul>{% for post in site.talks %}
+;    {% include archive-single-talk-cv.html %}
+;  {% endfor %}</ul>
   
 Teaching
 ======
@@ -51,3 +43,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Skills
+======
+* Language
+  * Mandarin Chinese and Cantonese (Both native), English
+  * C++, Python, MATLAB
+  * PyTorch, TensorFlow
