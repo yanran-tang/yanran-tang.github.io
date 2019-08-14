@@ -19,7 +19,7 @@ Work experience
 * 07/2017 -- 06/2018 Research Intern, Horizon Robotics Inc.
   * Worked with the reinforcement learning team to do research about model-based DRL and autonomous driving.
 
-* 09/2016 -- 05/2017 Research Student, [LEVIR Lab](http://levir.buaa.edu.cn/)
+* 09/2016 -- 05/2017 Research Student, LEVIR Lab
   * Worked on scene text detection and remote sensing detection.
 
 * 07/2016 -- 09/2016 Algorithm Engineer Intern, Swie Inc.
@@ -30,12 +30,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-;Talks
-;======
-;  <ul>{% for post in site.talks %}
-;    {% include archive-single-talk-cv.html %}
-;  {% endfor %}</ul>
   
 Teaching
 ======

@@ -22,3 +22,6 @@ Dr. Hong Zhang</a>.
 
 I am now working on graph neural networks and reinforcement learning, 
 including theory and application (mainly for recommender system).
+
+# Recent News
+A full paper *Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks* is accepted by CIKM 2019.
