@@ -23,5 +23,41 @@ Dr. Hong Zhang</a>.
 I am now working on graph neural networks and reinforcement learning, 
 including theory and application (mainly for recommender system).
 
-# Recent News
-A full paper *Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks* is accepted by CIKM 2019.
+Recent News
+=====
+* A full paper is accepted by CIKM 2019.
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Education
+======
+* B.S. in Detection Guidance and Control Technology, Beihang University, 2018
+* Ph.D in Computer Science, The University of Queensland, 2022 (expected)
+
+Work experience
+======
+* 07/2017 -- 06/2018 Research Intern, Horizon Robotics Inc.
+  * Worked with the reinforcement learning team to do research about model-based DRL and autonomous driving.
+
+* 09/2016 -- 05/2017 Research Student, LEVIR Lab
+  * Worked on scene text detection and remote sensing detection.
+
+* 07/2016 -- 09/2016 Algorithm Engineer Intern, Swie Inc.
+  * Developed a vision detection and classification system for scolds on PCB.
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Skills
+======
+* Language
+  * Mandarin Chinese and Cantonese (Both native), English
+  * C++, Python, MATLAB
+  * PyTorch, TensorFlow
