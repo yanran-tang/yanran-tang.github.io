@@ -45,3 +45,7 @@ Skills
   * Mandarin Chinese and Cantonese (Both native), English
   * C++, Python, MATLAB
   * PyTorch, TensorFlow
+
+* Hobbies
+  * Acoustic guitar
+  * Basketball and football
