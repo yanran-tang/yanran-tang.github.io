@@ -26,7 +26,7 @@ including theory and application (mainly for recommender system).
 
 Recent News
 =====
-* Receive the SIGIR Student Travel Grant for CIKM. Thank you SIGIR! 
+* Receive the SIGIR Student Travel Grant for CIKM. Thank you CIKM!
 * A full paper **Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks** is accepted by CIKM 2019.
 
 Work experience
