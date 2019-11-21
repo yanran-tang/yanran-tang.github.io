@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universaPhD student at The University of Queenslandl" # false (default), "google", "google-universal", "custom"
+  provider               :  "PhD student at The University of Queensland" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -86,7 +86,7 @@ author:
   location         : "Brisbane, Australia"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=zbRZyuEAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
