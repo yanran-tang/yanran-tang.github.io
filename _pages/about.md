@@ -26,10 +26,10 @@ including theory and application (mainly for the recommender system).
 
 Recent News
 =====
-* 05.2020 A paper is accepted by SIGIR 2020.
-* 02.2020 A paper is accepted by TOIS.
+* 05.2020 One paper is accepted by SIGIR 2020.
+* 02.2020 One paper is accepted by TOIS.
 * 11.2019 Receive the SIGIR Student Travel Grant for CIKM. Thank you CIKM!
-* 08.2019 A paper is accepted by CIKM 2019.
+* 08.2019 One paper is accepted by CIKM 2019.
 
 Work experience
 ======
