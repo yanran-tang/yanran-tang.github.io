@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi!"
+title: "Ruihong Qiu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Ruihong Qiu's homepage!
+/'ray hong chill'/
 
-Ruihong is currently a first-year PhD student at <a href="https://www.itee.uq.edu.au/" target="_blank">the
+Ruihong is currently a second-year PhD student at <a href="https://www.itee.uq.edu.au/" target="_blank">the
 School of Information Technology and Electrical Engineering, 
 <a href="https://www.uq.edu.cn" target="_blank"> The University of Queensland</a>. 
 He works with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank">
@@ -26,25 +26,24 @@ including theory and application (mainly for the recommender system).
 
 Recent News
 =====
-* Receive the SIGIR Student Travel Grant for CIKM. Thank you CIKM!
-* A full paper **Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks** is accepted by CIKM 2019.
+* 05.2020 A paper is accepted by SIGIR 2020.
+* 02.2020 A paper is accepted by TOIS.
+* 11.2019 Receive the SIGIR Student Travel Grant for CIKM. Thank you CIKM!
+* 08.2019 A paper is accepted by CIKM 2019.
 
 Work experience
 ======
-* 07/2017 -- 06/2018 Research Intern, Horizon Robotics Inc.
-  * Worked with the reinforcement learning team to do research about model-based DRL and autonomous driving.
+* 07.2017 -- 06.2018 Research Intern, Horizon Robotics Inc.
+  * Model-based reinforcement learning for autonomous driving.
 
-* 09/2016 -- 05/2017 Research Student, LEVIR Lab
-  * Worked on scene text detection and remote sensing detection.
-
-* 07/2016 -- 09/2016 Algorithm Engineer Intern, Swie Inc.
-  * Developed a vision detection and classification system for scolds on PCB.
+* 07.2016 -- 09.2016 Algorithm Engineer Intern, Swie Inc.
+  * Deep learning-based scolds detection for PCB chips.
   
 Skills
 ======
 * Language
-  * Mandarin Chinese and Cantonese (Both native), English
-  * C++, Python, MATLAB
+  * Mandarin Chinese and Cantonese (both native), English
+  * Python
   * PyTorch, TensorFlow
 
 * Hobbies
@@ -52,3 +51,5 @@ Skills
   * Basketball and football
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
+
+Updated on 07/07/2020.
