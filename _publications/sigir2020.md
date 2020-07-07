@@ -6,6 +6,7 @@ excerpt: '**Ruihong Qiu**, Hongzhi Yin*, Zi Huang, Tong Chen'
 date: 2020-05-02
 venue: 'SIGIR'
 paperurl: 'https://arxiv.org/abs/2007.02747'
+pubtype: 'conference'
 ---
 **Ruihong Qiu**, Hongzhi Yin*, Zi Huang, Tong Chen
 
