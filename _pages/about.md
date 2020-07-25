@@ -26,6 +26,7 @@ including theory and application (mainly for the recommender system).
 
 Recent News
 =====
+* 07.2020 3MT competition Runner-up and People Choice Awards at ITEE! [\[Video\]](https://www.youtube.com/watch?v=zVEHeSwpHYo&t=4s)
 * 05.2020 One paper is accepted by SIGIR 2020.
 * 02.2020 One paper is accepted by TOIS.
 * 11.2019 Receive the SIGIR Student Travel Grant for CIKM. Thank you CIKM!
