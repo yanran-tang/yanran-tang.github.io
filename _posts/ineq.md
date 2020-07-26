@@ -1,0 +1,62 @@
+---
+title: 'Inequalities'
+date: 2020-07-26
+permalink: /posts/2020/07/ineq/
+tags:
+  - inequality
+topic: 'stat'
+---
+
+Introduction of probability and expectation inequalities.
+
+# Probability Inequalities
+
+**Theorem 1** (The Gaussian Tail Inequality). *Let $$X\sim N(0.1)$$. Then*
+
+$$
+\mathbb{P}(|X|>\epsilon) \leq \frac{2 e^{-\epsilon^{2} / 2}}{\epsilon}.
+$$
+
+*If $$X_{1}, \ldots, X_{n} \sim N(0,1)$$ then*
+
+$$
+\mathbb{P}\left(\left|\bar{X}_{n}\right|>\epsilon\right) \leq \frac{2}{\sqrt{n} \epsilon} e^{-n \epsilon^{2} / 2} \stackrel{\text { large n}}{\leq} e^{-n \epsilon^{2} / 2}.
+$$
+
+***Proof***. Density of $$X$$ is $$\phi(x)=(2\pi)^{(-1/2)}e^{-x^2/2}$$. For one side:
+
+$$
+\begin{aligned}
+  \mathbb{P}(X>\epsilon)&=\int_{\epsilon}^{\infty} \phi(s) d s=\int_{\epsilon}^{\infty} \frac{s}{s} \phi(s) d s \stackrel{s>\epsilon}{\leq} \frac{1}{\epsilon} \int_{\epsilon}^{\infty} s \phi(s) d s\\
+  &\stackrel{\phi^{\prime}(x)=-x\phi(x)}{=}\frac{1}{\epsilon}(-\phi^{\prime}(s))\arrowvert^{\infty}_{\epsilon}=\frac{\phi(\epsilon)}{\epsilon} \leq \frac{e^{-\epsilon^{2} / 2}}{\epsilon}.
+\end{aligned}
+$$
+
+By symmetry,
+
+$$
+  \mathbb{P}(|X|>\epsilon) \leq \frac{2 e^{-\epsilon^{2} / 2}}{\epsilon}.
+$$
+
+Let $$X_{1}, \ldots, X_{n} \sim N(0,1)$$. Then $$\bar{X}_{n}=n^{-1} \sum_{i=1}^{n} X_{i} \sim N(0,1 / n)$$. Thus, $$\bar{X}_{n} \stackrel{d}{=} n^{-1 / 2} Z$$, where $$Z \sim N(0,1)$$ and based on the inequality above:
+
+$$
+\mathbb{P}\left(\left|\bar{X}_{n}\right|>\epsilon\right)=\mathbb{P}\left(n^{-1 / 2}|Z|>\epsilon\right)=\mathbb{P}(|Z|>\sqrt{n} \epsilon) \leq \frac{2}{\sqrt{n} \epsilon} e^{-n \epsilon^{2} / 2}.
+$$
+
+**Theorem 2** (Markov Inequality). *Let $$X$$ be a non-negative random variable and suppose that $$\mathbb{E}(X)$$ exists. For any $$t>0$$*,
+
+$$
+\label{eq:mk}
+\mathbb{P}(X>t) \leq \frac{\mathbb{E}(X)}{t}.
+$$
+
+***Proof***. Since $$X>0$$,
+$$
+\begin{aligned}
+  \mathbb{E}(X)&=\int_{0}^{\infty} x p(x) d x=\int_{0}^{t} x p(x) d x+\int_{t}^{\infty} x p(x) d x\\
+  &\geq\int_{t}^{\infty} x p(x) d x\stackrel{x\geq t}{\geq}t\int_{t}^{\infty}p(x) d x=t\mathbb{P}(X>t).
+\end{aligned}
+$$
+
+# Expectation Inequalities
