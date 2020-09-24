@@ -41,17 +41,25 @@ Work experience
 * 07.2016 -- 09.2016 Algorithm Engineer Intern, Swie Inc.
   * Deep learning-based scolds detection for PCB chips.
   
-Skills
+Professional Services
 ======
-* Language
-  * Mandarin Chinese and Cantonese (both native), English
-  * Python
-  * PyTorch, TensorFlow
+* Reviewer
+  
+  Journal: TKDE
 
-* Hobbies
-  * Acoustic guitar
-  * Basketball and football
+  Conference: CCL'20
+
+* External Reviewer
+  
+  Journal: TKDE, TOIS
+
+  Conference: ACML'20, CIKM'20, ICDE'20, IJCAI'20, MDM'20, SIGIR'20'19, SIGMOD'20, WNBN'20, WSDM'21'20
+
+Language
+======
+* Mandarin Chinese and Cantonese (both native), English (fluent).
+
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
 
-Updated on 13/08/2020.
+Updated on 24/09/2020.
