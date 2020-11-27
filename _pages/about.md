@@ -10,7 +10,7 @@ redirect_from:
 
 /'ray hong chill'/
 
-Email: r[DOTs]qiu[ATs]uq[DOTs]edu[DOTs]au
+Email: r[DOT].qiu[AT]@uq[DOT].edu[DOT].au
 
 Ruihong is currently a second-year PhD student at <a href="https://www.itee.uq.edu.au/" target="_blank">the
 School of Information Technology and Electrical Engineering, 
