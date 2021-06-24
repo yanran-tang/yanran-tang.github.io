@@ -10,16 +10,17 @@ redirect_from:
 
 /'ray hong chill'/
 
-Ruihong is currently a second-year PhD student at <a href="https://www.itee.uq.edu.au/" target="_blank">the
+Email: r[DOT]qiu[AT]uq[DOT]edu[DOT][first two letters in lower case of "Australia"]
+
+Ruihong is currently a third-year PhD student at <a href="https://www.itee.uq.edu.au/" target="_blank">the
 School of Information Technology and Electrical Engineering, 
 <a href="https://www.uq.edu.cn" target="_blank"> The University of Queensland</a>. 
 He works with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank">
 Dr. Helen Huang</a> and <a href="http://net.pku.edu.cn/daim/hongzhi.yin/" target="_blank"> Dr.
-Hongzhi Yin</a>. He was granted the bachelor's degree in Detection Guidance and Control Technology
+Hongzhi Yin</a>. He was granted the bachelor's degree in Electrical Engineering
 at <a href="http://www.sa.buaa.edu.cn/" target="_blank">the School of Astronautics</a>, 
 <a href="http://www.buaa.edu.cn" target="_blank">
-Beihang University (BUAA)</a> in 2018 under the supervision of <a href="http://www.sa.buaa.edu.cn/info/1056/2973.htm" target="_blank">
-Dr. Hong Zhang</a>.
+Beihang University (BUAA)</a> in 2018.
 
 He is now working on graph neural networks and reinforcement learning,
 including theory and application (mainly for the recommender system).
@@ -45,13 +46,13 @@ Professional Services
 ======
 * Reviewer
   
-  Journal: TKDE
+  Journal: TKDE, WWWJ
 
   Conference: CCL'20
 
 * External Reviewer
   
-  Journal: TKDE, TOIS
+  Journal: TOIS
 
   Conference: ACML'20, CIKM'20, ICDE'20, IJCAI'20, MDM'20, SIGIR'20'19, SIGMOD'20, WNBN'20, WSDM'21'20
 
@@ -62,4 +63,4 @@ Language
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
 
-Updated on 30/09/2020.
+Updated on 06/12/2020.
