@@ -27,6 +27,7 @@ including theory and application (mainly for the recommender system).
 
 Recent News
 =====
+* 07.2021 One paper is accepted by TOIS.
 * 08.2020 Receive the SIGIR Student Travel Grant for SIGIR. Thank you SIGIR!
 * 07.2020 3MT competition Runner-up and People Choice Awards at ITEE! [\[Video\]](https://www.youtube.com/watch?v=zVEHeSwpHYo&t=4s)
 * 05.2020 One paper is accepted by SIGIR 2020.
@@ -46,15 +47,9 @@ Professional Services
 ======
 * Reviewer
   
-  Journal: TKDE, WWWJ
+  Journal: TKDE, TOIS, WWWJ
 
-  Conference: CCL'20
-
-* External Reviewer
-  
-  Journal: TOIS
-
-  Conference: ACML'20, CIKM'20, ICDE'20, IJCAI'20, MDM'20, SIGIR'20'19, SIGMOD'20, WNBN'20, WSDM'21'20
+  Conference: ACML'20, CIKM'21'20, ICDE'20, IJCAI'20, SIGIR'20'19, SIGMOD'20, VLDB'21, WSDM'21'20
 
 Language
 ======
@@ -63,4 +58,4 @@ Language
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
 
-Updated on 06/12/2020.
+Updated on 01/07/2021.
