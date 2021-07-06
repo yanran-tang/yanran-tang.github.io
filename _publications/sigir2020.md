@@ -16,7 +16,7 @@ pubtype: 'conference'
 
 Recommended citation:
 ```
-@inproceedings{QiuYHC19,
+@inproceedings{gag,
   author    = {Ruihong Qiu and
                Hongzhi Yin and
                Zi Huang and

@@ -27,6 +27,7 @@ including theory and application (mainly for the recommender system).
 
 Recent News
 =====
+* 07.2021 Two papers are accepted by MM.
 * 07.2021 One paper is accepted by TOIS.
 * 08.2020 Receive the SIGIR Student Travel Grant for SIGIR. Thank you SIGIR!
 * 07.2020 3MT competition Runner-up and People Choice Awards at ITEE! [\[Video\]](https://www.youtube.com/watch?v=zVEHeSwpHYo&t=4s)
@@ -58,4 +59,4 @@ Language
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
 
-Updated on 01/07/2021.
+Updated on 06/07/2021.
