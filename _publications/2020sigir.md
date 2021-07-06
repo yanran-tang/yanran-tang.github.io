@@ -21,7 +21,7 @@ Recommended citation:
                Hongzhi Yin and
                Zi Huang and
                Tong Chen},
-  title     = {{GAG:} Global Attributed Graph Neural Network for Streaming Session-based
+  title     = {GAG: Global Attributed Graph Neural Network for Streaming Session-based
                Recommendation},
   booktitle = {Proceedings of the 43rd International {ACM} {SIGIR} conference on
                research and development in Information Retrieval, {SIGIR} 2020, Virtual
