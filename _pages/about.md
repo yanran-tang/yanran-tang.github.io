@@ -44,13 +44,12 @@ Work experience
 * 07.2016 -- 09.2016 Algorithm Engineer Intern, Swie Inc.
   * Deep learning-based scolds detection for PCB chips.
   
-Professional Services
+Academic Services
 ======
-* Reviewer
   
-  Journal: TKDE, TOIS, WWWJ
+  * Journal reviewer: TKDE, TOIS, WWWJ
 
-  Conference: ACML'20, CIKM'21'20, ICDE'20, IJCAI'20, SIGIR'20'19, SIGMOD'20, VLDB'21, WSDM'21'20
+  * Conference PC member: ACML'20, CIKM'21'20, ICDE'20, IJCAI'20, SIGIR'20'19, SIGMOD'20, VLDB'21, WSDM'21'20
 
 Language
 ======
@@ -59,4 +58,4 @@ Language
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
 
-Updated on 06/07/2021.
+Updated on 09/07/2021.
