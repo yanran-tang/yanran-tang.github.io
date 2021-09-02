@@ -2,7 +2,7 @@
 title: "Learning to Diversify for Single Domain Generalization"
 collection: publications
 permalink: /publication/2021mmiccva
-excerpt: 'Zijian Wang, Yadan Luo, Ruihong Qiu, Zi Huang, Mahsa Baktashmotlagh'
+excerpt: 'Zijian Wang, Yadan Luo, **Ruihong Qiu**, Zi Huang, Mahsa Baktashmotlagh'
 date: 2021-09-02
 venue: 'ICCV'
 paperurl: 'https://arxiv.org/abs/2108.11726'
