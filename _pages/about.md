@@ -22,7 +22,7 @@ at <a href="http://www.sa.buaa.edu.cn/" target="_blank">the School of Astronauti
 <a href="http://www.buaa.edu.cn" target="_blank">
 Beihang University (BUAA)</a> in 2018.
 
-He is now working on graph neural networks and reinforcement learning,
+He is now working on graph neural networks and self-supervised learning,
 including theory and application (mainly for the recommender system).
 
 Recent News
