@@ -27,9 +27,10 @@ including theory and application (mainly for the recommender system).
 
 Recent News
 =====
+* 10.2021 One paper is accepted by WSDM 2022.
 * 08.2021 One paper is accepted by ICDM 2021.
 * 07.2021 Two papers are accepted by ICCV 2021.
-* 07.2021 Two papers are accepted by MM 2021.
+* 07.2021 Two papers are accepted by MM 2021 with one oral acceptance.
 * 07.2021 One paper is accepted by TOIS.
 * 08.2020 Receive the SIGIR Student Travel Grant for SIGIR. Thank you SIGIR!
 * 07.2020 3MT competition Runner-up and People Choice Awards at ITEE! [\[Video\]](https://www.youtube.com/watch?v=zVEHeSwpHYo&t=4s)
