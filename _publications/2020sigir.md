@@ -2,13 +2,13 @@
 title: "GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation"
 collection: publications
 permalink: /publication/2020sigir
-excerpt: '**Ruihong Qiu**, Hongzhi Yin*, Zi Huang, Tong Chen'
+excerpt: '**Ruihong Qiu**, Hongzhi Yin, Zi Huang, Tong Chen'
 date: 2020-05-02
 venue: 'SIGIR'
 paperurl: 'https://arxiv.org/abs/2007.02747'
 pubtype: 'conference'
 ---
-**Ruihong Qiu**, Hongzhi Yin*, Zi Huang, Tong Chen
+**Ruihong Qiu**, Hongzhi Yin, Zi Huang, Tong Chen
 
 [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3397271.3401109)
 [\[arXiv\]](https://arxiv.org/abs/2007.02747)
