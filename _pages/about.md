@@ -14,15 +14,15 @@ Email: r.qiu[AT]uq.edu.au
 
 Ruihong is currently a third-year PhD student at <a href="https://www.itee.uq.edu.au/" target="_blank">the
 School of Information Technology and Electrical Engineering, 
-<a href="https://www.uq.edu.cn" target="_blank"> The University of Queensland</a>. 
+<a href="https://www.uq.edu.com" target="_blank"> The University of Queensland</a>. 
 He works with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank">
-Dr. Helen Huang</a> and <a href="http://net.pku.edu.cn/daim/hongzhi.yin/" target="_blank"> Dr.
+Dr. Helen Huang</a> and <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Dr.
 Hongzhi Yin</a>. He was granted the bachelor's degree in Electrical Engineering
 at <a href="http://www.sa.buaa.edu.cn/" target="_blank">the School of Astronautics</a>, 
 <a href="http://www.buaa.edu.cn" target="_blank">
 Beihang University (BUAA)</a> in 2018.
 
-He is now working on graph neural networks and self-supervised learning,
+He is now working on sequential modelling,
 including theory and application (mainly for the recommender system).
 
 Recent News
@@ -61,4 +61,4 @@ Language
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
 
-Updated on 29/10/2021.
+Updated on 03/11/2021.

@@ -13,6 +13,7 @@ pubtype: 'conference'
 [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3397271.3401109)
 [\[arXiv\]](https://arxiv.org/abs/2007.02747)
 [\[code\]](https://github.com/RuihongQiu/GAG)
+[\[video\]](https://www.youtube.com/watch?v=aFAMadUTsF0)
 
 Recommended citation:
 ```
