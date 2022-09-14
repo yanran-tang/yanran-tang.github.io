@@ -16,10 +16,9 @@ Ruihong is currently a Postdoctoral Research Fellow at <a href="https://www.itee
 School of Information Technology and Electrical Engineering, 
 <a href="https://www.uq.edu.com" target="_blank"> The University of Queensland (UQ)</a>. 
 He received his PhD degree in computer science at UQ in 2022, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank">
-Dr Helen Huang</a> and <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Dr
+Dr Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Dr
 Hongzhi Yin</a>, and <a href="https://researchers.uq.edu.au/researcher/569" target="_blank">
-Dr Zhiguo Yuan</a>. He was granted the bachelor's degree in Electrical Engineering
-at <a href="http://www.sa.buaa.edu.cn/" target="_blank">the School of Astronautics</a>, 
+Dr Zhiguo Yuan</a>. He received his bachelor's degree at 
 <a href="http://www.buaa.edu.cn" target="_blank">
 Beihang University (BUAA)</a> in 2018.
 
