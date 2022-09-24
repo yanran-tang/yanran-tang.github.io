@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My [CV](http://ruihongqiu.github.io/files/cv_english.pdf).
+My [CV](https://drive.google.com/file/d/1-1iCUrlHdbWpiU6PnceyvhnjA-uZtWsK/view?usp=sharing).
