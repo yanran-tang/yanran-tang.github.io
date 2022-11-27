@@ -9,8 +9,7 @@ redirect_from:
 ---
 邱瑞鸿 /`ray hong chill/
 
-I am currently a Postdoctoral Research Fellow at <a href="https://www.uq.edu.com" target="_blank"> The University of Queensland (UQ)</a>. 
-I did my PhD in computer science at UQ from 2019 to 2022, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank">
+I am currently a Postdoctoral Research Fellow at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>, where I did my PhD in computer science from 2019 to 2022 as well, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank">
 Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://researchers.uq.edu.au/researcher/569" target="_blank">
 Zhiguo Yuan</a>. I did my bachelor at 
 <a href="http://www.buaa.edu.cn" target="_blank">
@@ -28,7 +27,7 @@ Recent News
 
 * 06.2022 Give a talk about Item- and Sequence-level Contrastive Learning in Sequential Recommendation at IR Seminar at the University of Glasgow.
 
-* 12.2021 ACMMM Asia 2021 PhD Lightning Talk Award, Highly Commended.
+* 12.2021 ACM MM Asia 2021 PhD Lightning Talk Award, Highly Commended.
 
 * 07.2020 3MT competition Runner-up and People Choice Awards at ITEE [\[video\]](https://www.youtube.com/watch?v=zVEHeSwpHYo&t=4s).
 
@@ -54,6 +53,7 @@ td, th {
               <br>
               <a href="https://arxiv.org/abs/2209.03735" target="_blank">arXiv</a> /
               <a href="https://github.com/RuihongQiu/OverRec" target="_blank">code</a>
+              <a href="https://www.youtube.com/watch?v=_jtvL4ROmq0&ab_channel=RuihongQiu" target="_blank">video</a>
               <p></p>
               <p></p>
               <p>
