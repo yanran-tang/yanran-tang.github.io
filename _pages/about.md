@@ -52,7 +52,7 @@ td, th {
               ICDM 2022
               <br>
               <a href="https://arxiv.org/abs/2209.03735" target="_blank">arXiv</a> /
-              <a href="https://github.com/RuihongQiu/OverRec" target="_blank">code</a>
+              <a href="https://github.com/RuihongQiu/OverRec" target="_blank">code</a> /
               <a href="https://www.youtube.com/watch?v=_jtvL4ROmq0&ab_channel=RuihongQiu" target="_blank">video</a>
               <p></p>
               <p></p>
@@ -207,4 +207,4 @@ td, th {
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
 
-Updated on 09/11/2022.
+Updated on 27/11/2022.
