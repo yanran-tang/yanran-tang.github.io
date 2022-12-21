@@ -39,9 +39,9 @@ td, th {
 }
 </style>
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/overrec.JPG" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
@@ -62,7 +62,7 @@ td, th {
             </td>
           </tr>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/duorec.JPG" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
@@ -82,7 +82,7 @@ td, th {
             </td>
           </tr>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/mminforec.JPG" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
@@ -103,7 +103,7 @@ td, th {
             </td>
           </tr>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/causalrec.JPG" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
@@ -124,7 +124,7 @@ td, th {
             </td>
           </tr>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/posrec.JPG" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
@@ -143,7 +143,7 @@ td, th {
             </td>
           </tr>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/gag.JPG" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
@@ -164,7 +164,7 @@ td, th {
             </td>
           </tr>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/globalgraph.JPG" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
@@ -183,7 +183,7 @@ td, th {
             </td>
           </tr>
           <tr>
-            <td style="padding:20px;width:25%;vertical-align:middle">
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/fgnn.JPG" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
