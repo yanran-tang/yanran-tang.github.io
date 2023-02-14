@@ -20,6 +20,9 @@ including theory and application (mainly for the recommender system).
 
 I speak Cantonese, Mandarin and English.
 
+<a href="./recruit">
+Open positions all year round!</a>
+
 Recent News
 =====
 
@@ -207,4 +210,4 @@ td, th {
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
 
-Updated on 27/11/2022.
+Updated on 14/02/2023.
