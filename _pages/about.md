@@ -9,22 +9,25 @@ redirect_from:
 ---
 邱瑞鸿 /`ray hong chill/
 
-I am currently a Postdoctoral Research Fellow at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>, where I did my PhD in computer science from 2019 to 2022 as well, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank">
-Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://researchers.uq.edu.au/researcher/569" target="_blank">
+I am currently an Associate Lecturer and a Postdoctoral Research Fellow at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>, where I did my PhD in computer science from 2019 to 2022 as well, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank">
+Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank">
 Zhiguo Yuan</a>. I did my bachelor at 
 <a href="http://www.buaa.edu.cn" target="_blank">
 Beihang University (BUAA)</a> from 2014 to 2018.
 
-I am now working on sequential modelling,
-including theory and application (mainly for the recommender system).
+I am now working on sequence modelling, graph learning, and text mining,
+including theory and application on recommendation, graph application and information retrieval in various cross-disciplinary scenarios, such as social network, law, health etc.
 
-I speak Cantonese, Mandarin and English.
+I speak Cantonese, English, and Mandarin.
 
 <a href="./recruit">
-Open positions all year round!</a>
+Recruitment: Open positions all year round!</a>
 
 Recent News
 =====
+* 08.2023 Give a talk about Recent Advances of Data Science Methods in Public Health at ICIAM, Busan.
+
+* 07.2023 **Winner** of Task 2 and 4 at Social Media Mining for Health Competition (SMM4H) 2023!
 
 * 11.2022 Give a talk about Item- and Sequence-level Contrastive Learning in Sequential Recommendation at TIGER Seminar at RMIT.
 
@@ -43,6 +46,26 @@ td, th {
 </style>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/cat.jpg" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>CaT: Balanced Continual Graph Learning with Graph Condensation</strong>
+              <br>
+              Yilun Liu, <strong>Ruihong Qiu</strong>, Zi Huang
+              <br>
+              ICDM 2023
+              <br>
+              <a href="https://arxiv.org/abs/2309.09455" target="_blank">arXiv</a> /
+              <a href="https://github.com/superallen13/CaT-CGL" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                We introduce a memory-based continual graph learning algorithm using graph condensation to construct a more representative memory bank. And a Train-in-Memory continual learning scheme can further alleviate the imbalanced training issue in Class Incremental Learning (CaT🐱).
+              </p>
+            </td>
+          </tr>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/overrec.JPG" alt="PontTuset" width="200" style="border-style: none">
@@ -81,6 +104,25 @@ td, th {
               <p></p>
               <p>
                 We discover and find the cause of representation degeneration problem in sequential recommendation (DuoRec). A contrastive learning regularisation is applied to enforce the distribution to be uniform.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/n2o.jpeg" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>An integrated first principal and deep learning approach for modeling nitrous oxide emissions from wastewater treatment plants</strong>
+              <br>
+              Kaili Li, Haoran Duan, Linfeng Liu, <strong>Ruihong Qiu</strong>, Ben van den Akker, Bing-Jie Ni, Tong Chen, Hongzhi Yin, Zhiguo Yuan, Liu Ye
+              <br>
+              Environmental Science & Technology 2022
+              <br>
+              <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c05020" target="_blank">PDF</a>
+              <p></p>
+              <p></p>
+              <p>
+                We use sequential modelling in deep learning to predict the amount of emitted N<sub>2</sub>O with green-house effect.
               </p>
             </td>
           </tr>
@@ -206,8 +248,30 @@ td, th {
             </td>
           </tr>
 </tbody>
-</table>>
+</table>
+
+Team
+=====
+<!-- * Yan Jiang, UQ EECS PhD (1.2024-)
+* Danny Wang, UQ EECS PhD (1.2024-) -->
+* <a href="https://www.linkedin.com/in/huynvn/?originalSubdomain=au" target="_blank"> Van Nhat Huy Nguyen</a>, UQ EECS PhD (4.2023-, co-advise with Sen Wang)
+* <a href="https://www.linkedin.com/in/yilun-allen-liu-a6b7b7190/" target="_blank"> Yilun Liu</a>, UQ EECS PhD (1.2023-, co-advise with Helen Huang)
+* <a href="https://acweb.uq.edu.au/profile/1183/jingyu" target="_blank"> Jingyu Ge</a>, UQ ACWEB PhD (1.2022-, co-advise with Zhiguo Yuan and Helen Huang)
+
+Teaching
+=====
+* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/129831" target="_blank"> Introduction to Data Science</a>, UQ DATA7001 (Sem 2, 2023, Co-coordination and Lecturer)
+* Data Mining, UQ INFS4203/7203 (Sem 2, 2022, Guest Lecturer)
+* Data Mining, UQ INFS4203/7203 (Sem 2, 2021, TA)
+* Cloud Computing, UQ INFS3208/7208 (Sem 2, 2020, TA)
+* Cloud Computing, UQ INFS3208/7208 (Sem 2, 2019, TA)
+
+Service
+=====
+* Conference organisation: Program Committee Co-chair at <a href="https://adc2023.github.io/organisation" target="_blank"> ADC'23</a>, PhD Forum Chair at <a href="https://ajcai2023.org/committee.html" target="_blank"> AJCAI'23</a>, Session Chair at ADMA'22
+* Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
+* PC member: ACML'20, AJCAI'23, CIKM'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'23'20, SIGIR'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21
+
+Updated on 26/09/2023.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
-
-Updated on 14/02/2023.
