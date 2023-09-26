@@ -14,7 +14,7 @@ description              : &description "PhD student at The University of Queens
 url                      : "https://ruihongqiu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RuihongQiu.github.io"
-teaser                   : "qrh-uq.JPG" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "qrh-uq.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Ruihong Qiu, 邱瑞鸿"
-  avatar           : "qrh.png"
+  avatar           : "qrh-uq.png"
   bio              : #"Postdoc at The University of Queensland"
   location         : #"Brisbane, Australia"
   employer         :
