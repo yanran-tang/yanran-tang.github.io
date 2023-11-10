@@ -9,14 +9,9 @@ redirect_from:
 ---
 邱瑞鸿 /`ray hong chill/
 
-I am currently an Associate Lecturer and a Postdoctoral Research Fellow at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>, where I did my PhD in computer science from 2019 to 2022 as well, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank">
-Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank">
-Zhiguo Yuan</a>. I did my bachelor at 
-<a href="http://www.buaa.edu.cn" target="_blank">
-Beihang University (BUAA)</a> from 2014 to 2018.
+I am currently an Associate Lecturer and a Postdoctoral Research Fellow at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I did my PhD in computer science from 2019 to 2022 at UQ, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>. I did my bachelor at <a href="http://www.buaa.edu.cn" target="_blank"> Beihang University (BUAA)</a> from 2014 to 2018.
 
-I am now working on sequence modelling, graph learning, and text mining,
-including theory and application on recommendation, graph application and information retrieval in various cross-disciplinary scenarios, such as social network, law, health etc.
+My research focuses on data science methods, including theory and application for various real-world scenarios, such as recommender systems, social network, urban computing, engineering, law, health etc.
 
 I speak Cantonese, English, and Mandarin.
 
@@ -25,6 +20,8 @@ Recruitment: Open positions all year round!</a>
 
 Recent News
 =====
+* 11.2023 **Best Paper Award** at ADC 2023 with my student, Yan!
+
 * 08.2023 Give a talk about Recent Advances of Data Science Methods in Public Health at ICIAM, Busan.
 
 * 07.2023 **Winner** of Task 2 and 4 at Social Media Mining for Health Competition (SMM4H) 2023!
@@ -33,12 +30,13 @@ Recent News
 
 * 06.2022 Give a talk about Item- and Sequence-level Contrastive Learning in Sequential Recommendation at IR Seminar at the University of Glasgow.
 
-* 12.2021 ACM MM Asia 2021 PhD Lightning Talk Award, Highly Commended.
+* 12.2021 ACM MM Asia 2021 PhD Lightning Talk Award, **Highly Commended**.
 
-* 07.2020 3MT competition Runner-up and People Choice Awards at ITEE [\[video\]](https://www.youtube.com/watch?v=zVEHeSwpHYo&t=4s).
+* 07.2020 3MT competition **Runner-up** and **People's Choice Awards** at ITEE [\[video\]](https://www.youtube.com/watch?v=zVEHeSwpHYo&t=4s).
 
 Selected Research
 =====
+<a href="https://scholar.google.com/citations?user=zbRZyuEAAAAJ" target="_blank">Google Scholar</a> page includes the full publication list.
 <style>
 td, th {
    border: none!important;
@@ -256,11 +254,11 @@ Team
 * Danny Wang, UQ EECS PhD (1.2024-) -->
 * <a href="https://www.linkedin.com/in/huynvn/?originalSubdomain=au" target="_blank"> Van Nhat Huy Nguyen</a>, UQ EECS PhD (4.2023-, co-advise with Sen Wang)
 * <a href="https://www.linkedin.com/in/yilun-allen-liu-a6b7b7190/" target="_blank"> Yilun Liu</a>, UQ EECS PhD (1.2023-, co-advise with Helen Huang)
-* <a href="https://acweb.uq.edu.au/profile/1183/jingyu" target="_blank"> Jingyu Ge</a>, UQ ACWEB PhD (1.2022-, co-advise with Zhiguo Yuan and Helen Huang)
+* <a href="https://acweb.uq.edu.au/profile/1183/jingyu" target="_blank"> Jingyu Ge</a>, UQ ACWEB PhD (1.2022-, co-advise with Zhiguo Yuan, Helen Huang, and Jiuling Li)
 
 Teaching
 =====
-* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/129831" target="_blank"> Introduction to Data Science</a>, UQ DATA7001 (Sem 2, 2023, Co-coordination and Lecturer)
+* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/129831" target="_blank"> Introduction to Data Science</a>, UQ DATA7001 (Sem 2, 2023, Co-Coordinator and Lecturer)
 * Data Mining, UQ INFS4203/7203 (Sem 2, 2022, Guest Lecturer)
 * Data Mining, UQ INFS4203/7203 (Sem 2, 2021, TA)
 * Cloud Computing, UQ INFS3208/7208 (Sem 2, 2020, TA)
@@ -272,6 +270,6 @@ Service
 * Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
 * PC member: ACML'20, AJCAI'23, CIKM'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'23'20, SIGIR'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21
 
-Updated on 26/09/2023.
+Updated on 10/11/2023.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
