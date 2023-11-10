@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "PhD student at The University of Queensland" # false (default), "google", "google-universal", "custom"
+  provider               :  "Associate Lecturer and Postdoc at The University of Queensland" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Ruihong Qiu, 邱瑞鸿"
   avatar           : "qrh-uq.png"
-  bio              : #"Postdoc at The University of Queensland"
+  bio              : #"Associate Lecturer and Postdoc at The University of Queensland"
   location         : #"Brisbane, Australia"
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ruihongqiu/"
   orcid            : #"https://orcid.org/0000-0001-8349-6475"
   pinterest        :
   soundcloud       :
