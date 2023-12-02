@@ -20,15 +20,17 @@ Recruitment: Open positions all year round!</a>
 
 Recent News
 =====
+* 11.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at Artificial Intelligence Enabled Trustworthy Recommendations Workshop at AJCAI 2023.
+
 * 11.2023 **Best Paper Award** at ADC 2023 with my student, Yan!
 
-* 08.2023 Give a talk about Recent Advances of Data Science Methods in Public Health at ICIAM, Busan.
+* 08.2023 Give a talk, "Recent Advances of Data Science Methods in Public Health", at ICIAM, Busan.
 
 * 07.2023 **Winner** of Task 2 and 4 at Social Media Mining for Health Competition (SMM4H) 2023!
 
-* 11.2022 Give a talk about Item- and Sequence-level Contrastive Learning in Sequential Recommendation at TIGER Seminar at RMIT.
+* 11.2022 Give a talk, "Item- and Sequence-level Contrastive Learning in Sequential Recommendation" at TIGER Seminar at RMIT.
 
-* 06.2022 Give a talk about Item- and Sequence-level Contrastive Learning in Sequential Recommendation at IR Seminar at the University of Glasgow.
+* 06.2022 Give a talk, "Item- and Sequence-level Contrastive Learning in Sequential Recommendation" at IR Seminar at the University of Glasgow.
 
 * 12.2021 ACM MM Asia 2021 PhD Lightning Talk Award, **Highly Commended**.
 
@@ -250,26 +252,27 @@ td, th {
 
 Team
 =====
-<!-- * Yan Jiang, UQ EECS PhD (1.2024-)
-* Danny Wang, UQ EECS PhD (1.2024-) -->
+* <a href="https://yanjiangjerry.github.io/" target="_blank"> Yan Jiang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
+* <a href="https://www.linkedin.com/in/danny-wang-374581217/" target="_blank"> Danny Wang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
 * <a href="https://www.linkedin.com/in/huynvn/?originalSubdomain=au" target="_blank"> Van Nhat Huy Nguyen</a>, UQ EECS PhD (4.2023-, co-advise with Sen Wang)
 * <a href="https://www.linkedin.com/in/yilun-allen-liu-a6b7b7190/" target="_blank"> Yilun Liu</a>, UQ EECS PhD (1.2023-, co-advise with Helen Huang)
 * <a href="https://acweb.uq.edu.au/profile/1183/jingyu" target="_blank"> Jingyu Ge</a>, UQ ACWEB PhD (1.2022-, co-advise with Zhiguo Yuan, Helen Huang, and Jiuling Li)
 
 Teaching
 =====
-* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/129831" target="_blank"> Introduction to Data Science</a>, UQ DATA7001 (Sem 2, 2023, Co-Coordinator and Lecturer)
-* Data Mining, UQ INFS4203/7203 (Sem 2, 2022, Guest Lecturer)
+* Social Analytics, UQ BSAN7207 (Coordinator and Lecturer, Sem 1, 2024 upcoming)
+* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/129831" target="_blank"> Introduction to Data Science</a>, UQ DATA7001 (Co-Coordinator and Lecturer, Sem 2, 2023 with Student Evaluation **4.6/5**; Sem 1, 2024 upcoming)
+<!-- * Data Mining, UQ INFS4203/7203 (Sem 2, 2022, Guest Lecturer)
 * Data Mining, UQ INFS4203/7203 (Sem 2, 2021, TA)
 * Cloud Computing, UQ INFS3208/7208 (Sem 2, 2020, TA)
-* Cloud Computing, UQ INFS3208/7208 (Sem 2, 2019, TA)
+* Cloud Computing, UQ INFS3208/7208 (Sem 2, 2019, TA) -->
 
 Service
 =====
-* Conference organisation: Program Committee Co-chair at <a href="https://adc2023.github.io/organisation" target="_blank"> ADC'23</a>, PhD Forum Chair at <a href="https://ajcai2023.org/committee.html" target="_blank"> AJCAI'23</a>, Session Chair at ADMA'22
+* Conference organisation: Program Committee Co-chair at <a href="https://adc2023.github.io/organisation" target="_blank"> ADC'23</a>, PhD Forum Co-Chair at <a href="https://ajcai2023.org/committee.html" target="_blank"> AJCAI'23</a>, Session Chair at AJCAI'23, ADMA'22
 * Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
 * PC member: ACML'20, AJCAI'23, CIKM'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'23'20, SIGIR'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21
 
-Updated on 10/11/2023.
+Updated on 2/12/2023.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
