@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Full collection of publications on <u><a href="https://scholar.google.com/citations?user=zbRZyuEAAAAJ&hl=en"> Google Scholar profile</a>.</u>
+Full collection of publications on <a href="https://scholar.google.com/citations?user=zbRZyuEAAAAJ" target="_blank">Google Scholar</a>.
 
 <!-- {% include base_path %}
 
@@ -23,17 +23,17 @@ Full collection of publications on <u><a href="https://scholar.google.com/citati
   {% endif %}
 {% endfor %} -->
 
-[18] Yilun Liu*, **Ruihong Qiu**, Yanran Tang, Zi Huang, Hongzhi Yin, PUMA: Efficient Continual Graph Learning with Graph Condensation, in *IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024 (Q1, under review)*
+[18] Yilun Liu\*, **Ruihong Qiu**, Yanran Tang, Zi Huang, Hongzhi Yin, PUMA: Efficient Continual Graph Learning with Graph Condensation, in *IEEE Transactions on Knowledge and Data Engineering (TKDE) 2024 (Q1, under review)*
 
-[17] Yanran Tang*, **Ruihong Qiu**, Yilun Liu, Xue Li and Zi Huang, CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs, in *European Conference on Information Retrieval (ECIR) 2024 (CORE A)*
+[17] Yanran Tang\*, **Ruihong Qiu**, Yilun Liu, Xue Li and Zi Huang, CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs, in *European Conference on Information Retrieval (ECIR) 2024 (CORE A)*
 
-[16] Anjie Zhu*, Peng-Fei Zhang, **Ruihong Qiu**, Zetao Zheng, Zi Huang, Jie Shao, Abstract and Explore: A Novel Behavioral Metric with Cyclic Dynamics in Reinforcement Learning, in *Annual AAAI Conference on Artificial Intelligence (AAAI) 2024 (CORE A\*)*
+[16] Anjie Zhu\*, Peng-Fei Zhang, **Ruihong Qiu**, Zetao Zheng, Zi Huang, Jie Shao, Abstract and Explore: A Novel Behavioral Metric with Cyclic Dynamics in Reinforcement Learning, in *Annual AAAI Conference on Artificial Intelligence (AAAI) 2024 (CORE A\*)*
 
 [15] Jiasheng Duan, Peng-Fei Zhang, **Ruihong Qiu**, Zi Huang, Long short-term enhanced memory for sequential recommendation, in *World Wide Web 2023*
 
-[14] Yan Jiang*, **Ruihong Qiu**, Yi Zhang, Peng-Fei Zhang, Balanced and Explainable Social Media Analysis for Public Health with Large Language Models, in Australasian Database Conference (ADC) 2023 (**Best Paper Award**, Competition **Winner 1/29** of Social Media Mining for Health (SMM4H))
+[14] Yan Jiang\*, **Ruihong Qiu**, Yi Zhang, Peng-Fei Zhang, Balanced and Explainable Social Media Analysis for Public Health with Large Language Models, in Australasian Database Conference (ADC) 2023 (**Best Paper Award**, Competition **Winner 1/29** of Social Media Mining for Health (SMM4H))
 
-[13] Yilun Liu*, **Ruihong Qiu**, Zi Huang, CaT: Balanced Continual Graph Learning with Graph Condensation, in *IEEE International Conference on Data Mining (ICDM) 2023 (CORE A\*)*
+[13] Yilun Liu\*, **Ruihong Qiu**, Zi Huang, CaT: Balanced Continual Graph Learning with Graph Condensation, in *IEEE International Conference on Data Mining (ICDM) 2023 (CORE A\*)*
 
 [12] Kaili Li, Haoran Duan, Linfeng Liu, **Ruihong Qiu**, Ben van den Akker, Bing-Jie Ni, Tong Chen, Hongzhi Yin, Zhiguo Yuan, Liu Ye, An Integrated First Principal and Deep Learning Approach for Modeling Nitrous Oxide Emissions from Wastewater Treatment Plants, in *Environmental Science & Technology (EST) 2022 (Q1)*
 
