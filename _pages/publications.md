@@ -50,7 +50,7 @@ Full collection of publications on <a href="https://scholar.google.com/citations
 [6] Zijian Wang, Yadan Luo, **Ruihong Qiu**, Zi Huang, Mahsa Baktashmotlagh, Learning to Diversify for Single Domain Generalization
 in *International Conference on Computer Vision (ICCV) 2021 (CORE A\*)*
 
-[5] **Ruihong Qiu**, Sen Wang, Zhi Chen, Hongzhi Yin, Zi Huang, CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation, in * ACM International Conference on Multimedia (MM) 2021 (CORE A\*, **oral**)*
+[5] **Ruihong Qiu**, Sen Wang, Zhi Chen, Hongzhi Yin, Zi Huang, CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation, in *ACM International Conference on Multimedia (MM) 2021 (CORE A\*, **oral**)*
 
 [4] Zhi Chen, Yadan Luo, Sen Wang, **Ruihong Qiu**, Jingjing Li, Zi Huang, Enhancing Generalized Zero-Shot Learning by Visual Perturbation, in *ACM International Conference on Multimedia (MM) 2021 (CORE A\*)*
 
