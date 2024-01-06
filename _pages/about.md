@@ -48,6 +48,26 @@ td, th {
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/casegnn.jpg" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs</strong>
+              <br>
+              Yanran Tang, <strong>Ruihong Qiu</strong>, Yilun Liu, Xue Li, Zi Huang
+              <br>
+              ECIR 2024
+              <br>
+              <a href="https://arxiv.org/abs/2312.11229" target="_blank">arXiv</a> /
+              <a href="https://github.com/yanran-tang/CaseGNN" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                We introduce a structural modelling of law case for effective retrieval with the aid of summarisation from LLM.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/cat.jpg" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
