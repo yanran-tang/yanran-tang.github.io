@@ -20,7 +20,11 @@ Recruitment: Open positions all year round!</a>
 
 Recent News
 =====
-* 11.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at Artificial Intelligence Enabled Trustworthy Recommendations Workshop at AJCAI 2023.
+* 03.2024 Give a talk, "Graph Learning Methods in Session-based Recommendations and Legal Case Retrieval" at [IRonGraphs Workshop at ECIR 2024](https://irongraphs.github.io/ecir2024/){:target="_blank"}. [\[slides\]](../files/GraphIR_IRonGraph_ECIR.pdf){:target="_blank"}
+
+* 12.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at CSIRO.
+
+* 11.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at Artificial Intelligence Enabled Trustworthy Recommendations Workshop at AJCAI 2023. <a href="../files/CGL-AJCAI23.pdf">[slides]</a>
 
 * 11.2023 **Best Paper Award** at ADC 2023 with my student, Yan!
 
@@ -34,7 +38,7 @@ Recent News
 
 * 12.2021 ACM MM Asia 2021 PhD Lightning Talk Award, **Highly Commended**.
 
-* 07.2020 3MT competition **Runner-up** and **People's Choice Awards** at ITEE [\[video\]](https://www.youtube.com/watch?v=zVEHeSwpHYo&t=4s).
+* 07.2020 3MT competition **Runner-up** and **People's Choice Awards** at ITEE [\[video\]](https://www.youtube.com/watch?v=zVEHeSwpHYo&t=4s){:target="_blank"}.
 
 Selected Research
 =====
@@ -280,8 +284,8 @@ Team
 
 Teaching
 =====
-* Social Analytics, UQ BSAN7207 (Coordinator and Lecturer, Sem 1, 2024 upcoming)
-* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/129831" target="_blank"> Introduction to Data Science</a>, UQ DATA7001 (Co-Coordinator and Lecturer, Sem 2, 2023 with Student Evaluation **4.6/5**; Sem 1, 2024 upcoming)
+* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/132419" target="_blank"> Social Analytics</a>, UQ BSAN7207 (Coordinator and Lecturer, Sem 1, 2024)
+* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/129831" target="_blank"> Introduction to Data Science</a>, UQ DATA7001 (Co-Coordinator and Lecturer, Sem 2, 2023 with Student Evaluation **4.6/5**; Sem 1, 2024)
 <!-- * Data Mining, UQ INFS4203/7203 (Sem 2, 2022, Guest Lecturer) -->
 <!-- * Data Mining, UQ INFS4203/7203 (Sem 2, 2021, TA) -->
 <!-- * Cloud Computing, UQ INFS3208/7208 (Sem 2, 2020, TA) -->
@@ -291,8 +295,8 @@ Service
 =====
 * Conference organisation: Program Committee Co-chair at <a href="https://adc2023.github.io/organisation" target="_blank"> ADC'23</a>, PhD Forum Co-Chair at <a href="https://ajcai2023.org/committee.html" target="_blank"> AJCAI'23</a>, Session Chair at AJCAI'23, ADMA'22
 * Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
-* PC member: ACML'20, AJCAI'23, CIKM'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'23'20, SIGIR'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21
+* PC member: ACML'20, AJCAI'23, CIKM'24'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'24'23'20, SIGIR'24'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21
 
-Updated on 6/1/2024.
+Updated on 20/3/2024.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
