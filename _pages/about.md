@@ -24,7 +24,7 @@ Recent News
 
 * 12.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at CSIRO.
 
-* 11.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at Artificial Intelligence Enabled Trustworthy Recommendations Workshop at AJCAI 2023. <a href="../files/CGL-AJCAI23.pdf" target="_blank">[slides]</a>
+* 11.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at Artificial Intelligence Enabled Trustworthy Recommendations Workshop at AJCAI 2023. [\[slides\]](../files/CGL-AJCAI23.pdf){:target="_blank"}
 
 * 11.2023 **Best Paper Award** at ADC 2023 with my student, Yan!
 
