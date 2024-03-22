@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruihong Qiu"
+title                    : "Yanran Tang"
 title_separator          : "-"
-name                     : &name "Ruihong Qiu 邱瑞鸿"
+name                     : &name "Yanran Tang 汤嫣然"
 description              : &description "PhD student at The University of Queensland"
-url                      : "https://ruihongqiu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yanran-tang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RuihongQiu.github.io"
-teaser                   : "qrh-uq.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "yanran-tang.github.io"
+teaser                   : "yanran_tang.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -23,7 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "http-ruihongqiu-github-io"
+    shortname            : "http-yanran-tang-github-io"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : #"Ruihong Qiu, 邱瑞鸿"
-  avatar           : "qrh-uq.png"
+  avatar           : "yanran_tang.jpeg"
   bio              : #"Associate Lecturer and Postdoc at The University of Queensland"
   location         : #"Brisbane, Australia"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=zbRZyuEAAAAJ&hl=en"
-  email            : "r.qiu@uq.edu.au"
+  googlescholar    : "https://scholar.google.com.au/citations?user=KmR5XoQAAAAJ&hl=en"
+  email            : "yanran.tang@uq.edu.au"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : # "https://drive.google.com/file/d/1DxMd1ODPkmHjt1QVwGycE9D83Gle8Pan/view?usp=sharing"
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RuihongQiu"
+  github           : "yanran-tang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ruihongqiu"
+  linkedin         : "yanran-tang-981a852bb"
   orcid            : #"https://orcid.org/0000-0001-8349-6475"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "RuihongQiu"
+  twitter          : "Yanran_T"
   vine             :
   weibo            :
   xing             :

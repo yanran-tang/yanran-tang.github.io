@@ -1,46 +1,21 @@
 ---
 permalink: /
-title: "Ruihong Qiu"
+title: "Yanran Tang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-邱瑞鸿 /`ray hong chill/
+汤嫣然
 
-I am currently an Associate Lecturer and a Postdoctoral Research Fellow at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I did my PhD in computer science from 2019 to 2022 at UQ, working with <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a>, <a href="https://sites.google.com/view/hongzhi-yin/home" target="_blank"> Hongzhi Yin</a>, and <a href="https://www.cityu.edu.hk/see/people/prof-zhiguo-yuan-am" target="_blank"> Zhiguo Yuan</a>. I did my bachelor at <a href="http://www.buaa.edu.cn" target="_blank"> Beihang University (BUAA)</a> from 2014 to 2018.
+I am currently a PhD student at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>, supervised by <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a> and <a href="https://researchers.uq.edu.au/researcher/973" target="_blank"> Xue Li</a>. I obataied my degrees of Bachelor of Law (LL.B.) and Master of Law (LL.M.) from 2014 to 2021.
 
-My research focuses on data science methods, including theory and application for various real-world scenarios, such as recommender systems, social network, urban computing, engineering, law, health etc.
+My research focuses on artificial intelligence in legal domain, including legal data mining, legal case retrieval, graph neural network for legal etc.
 
 I speak Cantonese, English, and Mandarin.
 
-<a href="./recruit">
-Recruitment: Open positions all year round!</a>
-
-Recent News
-=====
-* 03.2024 Give a talk, "Graph Learning Methods in Session-based Recommendations and Legal Case Retrieval" at [IRonGraphs Workshop at ECIR 2024](https://irongraphs.github.io/ecir2024/){:target="_blank"}. [\[slides\]](../files/GraphIR_IRonGraph_ECIR.pdf){:target="_blank"}
-
-* 12.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at CSIRO.
-
-* 11.2023 Give a talk, "Graph Condensation for Continual Graph Learning", at Artificial Intelligence Enabled Trustworthy Recommendations Workshop at AJCAI 2023. [\[slides\]](../files/CGL-AJCAI23.pdf){:target="_blank"}
-
-* 11.2023 **Best Paper Award** at ADC 2023 with my student, Yan!
-
-* 08.2023 Give a talk, "Recent Advances of Data Science Methods in Public Health", at ICIAM, Busan.
-
-* 07.2023 **Winner** of Task 2 and 4 at Social Media Mining for Health Competition (SMM4H) 2023!
-
-* 11.2022 Give a talk, "Item- and Sequence-level Contrastive Learning in Sequential Recommendation" at TIGER Seminar at RMIT.
-
-* 06.2022 Give a talk, "Item- and Sequence-level Contrastive Learning in Sequential Recommendation" at IR Seminar at the University of Glasgow.
-
-* 12.2021 ACM MM Asia 2021 PhD Lightning Talk Award, **Highly Commended**.
-
-* 07.2020 3MT competition **Runner-up** and **People's Choice Awards** at ITEE [\[video\]](https://www.youtube.com/watch?v=zVEHeSwpHYo&t=4s){:target="_blank"}.
-
-Selected Research
+Publication
 =====
 <a href="https://scholar.google.com/citations?user=zbRZyuEAAAAJ" target="_blank">Google Scholar</a> page includes the full publication list.
 <style>
@@ -57,7 +32,7 @@ td, th {
             <td width="75%" valign="middle">
               <strong>CaseGNN: Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs</strong>
               <br>
-              Yanran Tang, <strong>Ruihong Qiu</strong>, Yilun Liu, Xue Li, Zi Huang
+              <strong>Yanran Tang</strong>, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang
               <br>
               ECIR 2024
               <br>
@@ -66,237 +41,35 @@ td, th {
               <p></p>
               <p></p>
               <p>
-                We introduce a structural modelling of law case for effective retrieval with the aid of summarisation from LLM.
+                We introduce a structural modelling of law case with GNN for effective retrieval.
               </p>
             </td>
           </tr>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/cat.jpg" alt="PontTuset" width="200" style="border-style: none">
+              <img src="../images/PromptCase.jpg" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
-              <strong>CaT: Balanced Continual Graph Learning with Graph Condensation</strong>
+              <strong>Prompt-based Effective Input Reformulation for Legal Case Retrieval</strong>
               <br>
-              Yilun Liu, <strong>Ruihong Qiu</strong>, Zi Huang
+              <strong>Yanran Tang</strong>, Ruihong Qiu, Xue Li
               <br>
-              ICDM 2023
+              ADC 2023
               <br>
-              <a href="https://arxiv.org/abs/2309.09455" target="_blank">arXiv</a> /
-              <a href="https://github.com/superallen13/CaT-CGL" target="_blank">code</a>
+              <a href="https://arxiv.org/abs/2309.02962" target="_blank">arXiv</a> /
+              <a href="https://github.com/yanran-tang/PromptCase" target="_blank">code</a>
               <p></p>
               <p></p>
               <p>
-                We introduce a memory-based continual graph learning algorithm using graph condensation to construct a more representative memory bank. And a Train-in-Memory continual learning scheme can further alleviate the imbalanced training issue in Class Incremental Learning (CaT🐱).
+                We introduce an effective legal case retriver that focus on legal feature alignment with the aid of LM prompting and LLM summarisation.
               </p>
             </td>
           </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/overrec.JPG" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>Beyond Double Ascent via Recurrent Neural Tangent Kernel in Sequential Recommendation</strong>
-              <br>
-              <strong>Ruihong Qiu</strong>, Zi Huang, Hongzhi Yin
-              <br>
-              ICDM 2022
-              <br>
-              <a href="https://arxiv.org/abs/2209.03735" target="_blank">arXiv</a> /
-              <a href="https://github.com/RuihongQiu/OverRec" target="_blank">code</a> /
-              <a href="https://www.youtube.com/watch?v=_jtvL4ROmq0&ab_channel=RuihongQiu" target="_blank">video</a>
-              <p></p>
-              <p></p>
-              <p>
-                We introduce shared input-output embedding Recurrent Neural Tangent Kernel to sequential recommendation (OverRec). 
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/duorec.JPG" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation</strong>
-              <br>
-              <strong>Ruihong Qiu</strong>, Zi Huang, Hongzhi Yin, Zijian Wang
-              <br>
-              WSDM 2022
-              <br>
-              <a href="https://arxiv.org/abs/2110.05730" target="_blank">arXiv</a> /
-              <a href="https://github.com/RuihongQiu/DuoRec" target="_blank">code</a>
-              <p></p>
-              <p></p>
-              <p>
-                We discover and find the cause of representation degeneration problem in sequential recommendation (DuoRec). A contrastive learning regularisation is applied to enforce the distribution to be uniform.
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/n2o.jpeg" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>An integrated first principal and deep learning approach for modeling nitrous oxide emissions from wastewater treatment plants</strong>
-              <br>
-              Kaili Li, Haoran Duan, Linfeng Liu, <strong>Ruihong Qiu</strong>, Ben van den Akker, Bing-Jie Ni, Tong Chen, Hongzhi Yin, Zhiguo Yuan, Liu Ye
-              <br>
-              Environmental Science & Technology 2022
-              <br>
-              <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c05020" target="_blank">PDF</a>
-              <p></p>
-              <p></p>
-              <p>
-                We use sequential modelling in deep learning to predict the amount of emitted N<sub>2</sub>O with green-house effect.
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/mminforec.JPG" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>Memory Augmented Multi-Instance Contrastive Predictive Coding for Sequential Recommendation</strong>
-              <br>
-              <strong>Ruihong Qiu</strong>, Zi Huang, Hongzhi Yin
-              <br>
-              ICDM 2021
-              <br>
-              <a href="https://arxiv.org/abs/2109.00368" target="_blank">arXiv</a> /
-              <a href="https://github.com/RuihongQiu/MMInfoRec" target="_blank">code</a> /
-              <a href="https://www.youtube.com/watch?v=n32W2HAJrgQ&ab_channel=UQMMLab" target="_blank">video</a>
-              <p></p>
-              <p></p>
-              <p>
-                We introduce multi-instance NCE loss to enhance the side-information based item representation learning (MMInfoRec) in sequential recommendation. 
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/causalrec.JPG" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>CausalRec: Causal Inference for Visual Debiasing in Visually-Aware Recommendation</strong>
-              <br>
-              <strong>Ruihong Qiu</strong>, Sen Wang, Zhi Chen, Hongzhi Yin, Zi Huang
-              <br>
-              ACM MM 2021 (oral)
-              <br>
-              <a href="https://arxiv.org/abs/2107.02390" target="_blank">arXiv</a> /
-              <a href="https://github.com/RuihongQiu/cornac/tree/master/cornac/models/causalrec" target="_blank">code</a> /
-              <a href="https://www.youtube.com/watch?v=IIok9qC6aFg&ab_channel=UQMMLab" target="_blank">video</a>
-              <p></p>
-              <p></p>
-              <p>
-                We introduce a structural causal graph to debias the visual bias in item recommendation (CausalRec). 
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/posrec.JPG" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>Exploiting Positional Information for Session-based Recommendation</strong>
-              <br>
-              <strong>Ruihong Qiu</strong>, Zi Huang, Tong Chen, Hongzhi Yin
-              <br>
-              TOIS 2021
-              <br>
-              <a href="https://arxiv.org/abs/2107.00846" target="_blank">arXiv</a>
-              <p></p>
-              <p></p>
-              <p>
-                We introduce a dual positional encoding to theoretically characterise and represent the positional information (PosRec) in session-based recommendation. 
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/gag.JPG" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation</strong>
-              <br>
-              <strong>Ruihong Qiu</strong>, Hongzhi Yin, Zi Huang, Tong Chen
-              <br>
-              SIGIR 2020
-              <br>
-              <a href="https://arxiv.org/abs/2007.02747" target="_blank">arXiv</a> /
-              <a href="https://github.com/RuihongQiu/GAG" target="_blank">code</a> /
-              <a href="https://www.youtube.com/watch?v=aFAMadUTsF0&ab_channel=UQMMLab" target="_blank">video</a>
-              <p></p>
-              <p></p>
-              <p>
-                We introduce a global attributed graph (GAG) neural network for streaming session-based recommendation. 
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/globalgraph.JPG" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>Exploiting Cross-session Information for Session-based Recommendation with Graph Neural Networks</strong>
-              <br>
-              <strong>Ruihong Qiu</strong>, Jingjing Li, Zi Huang, Hongzhi Yin
-              <br>
-              TOIS 2020
-              <br>
-              <a href="https://arxiv.org/abs/2107.00852" target="_blank">arXiv</a>
-              <p></p>
-              <p></p>
-              <p>
-                We introduce a global graph to model cross session information in session-based recommendation. 
-              </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
-              <img src="../images/fgnn.JPG" alt="PontTuset" width="200" style="border-style: none">
-            </td>
-            <td width="75%" valign="middle">
-              <strong>Rethinking the Item Order in Session-based Recommendation with Graph Neural Networks</strong>
-              <br>
-              <strong>Ruihong Qiu</strong>, Jingjing Li, Zi Huang, Hongzhi Yin
-              <br>
-              CIKM 2019
-              <br>
-              <a href="https://arxiv.org/abs/1911.11942" target="_blank">arXiv</a> /
-              <a href="https://github.com/RuihongQiu/FGNN" target="_blank">code</a>
-              <p></p>
-              <p></p>
-              <p>
-                We introduce a Full Graph Neural Network (FGNN) for to model a session as graph in session-based recommendation. 
-              </p>
-            </td>
-          </tr>
+
 </tbody>
 </table>
 
-Team
-=====
-* <a href="https://yanjiangjerry.github.io/" target="_blank"> Yan Jiang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
-* <a href="https://www.linkedin.com/in/danny-wang-374581217/" target="_blank"> Danny Wang</a>, UQ EECS PhD (1.2024-, co-advise with Helen Huang and Guangdong Bai)
-* <a href="https://www.linkedin.com/in/huynvn/?originalSubdomain=au" target="_blank"> Van Nhat Huy Nguyen</a>, UQ EECS PhD (4.2023-, co-advise with Sen Wang)
-* <a href="https://www.linkedin.com/in/yilun-allen-liu-a6b7b7190/" target="_blank"> Yilun Liu</a>, UQ EECS PhD (1.2023-, co-advise with Helen Huang)
-* <a href="https://acweb.uq.edu.au/profile/1183/jingyu" target="_blank"> Jingyu Ge</a>, UQ ACWEB PhD (1.2022-, co-advise with Zhiguo Yuan, Helen Huang, and Jiuling Li)
 
-Teaching
-=====
-* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/132419" target="_blank"> Social Analytics</a>, UQ BSAN7207 (Coordinator and Lecturer, Sem 1, 2024)
-* <a href="https://course-profiles.uq.edu.au/student_section_loader/section_1/129831" target="_blank"> Introduction to Data Science</a>, UQ DATA7001 (Co-Coordinator and Lecturer, Sem 2, 2023 with Student Evaluation **4.6/5**; Sem 1, 2024)
-<!-- * Data Mining, UQ INFS4203/7203 (Sem 2, 2022, Guest Lecturer) -->
-<!-- * Data Mining, UQ INFS4203/7203 (Sem 2, 2021, TA) -->
-<!-- * Cloud Computing, UQ INFS3208/7208 (Sem 2, 2020, TA) -->
-<!-- * Cloud Computing, UQ INFS3208/7208 (Sem 2, 2019, TA) -->
-
-Service
-=====
-* Conference organisation: Program Committee Co-chair at <a href="https://adc2023.github.io/organisation" target="_blank"> ADC'23</a>, PhD Forum Co-Chair at <a href="https://ajcai2023.org/committee.html" target="_blank"> AJCAI'23</a>, Session Chair at AJCAI'23, ADMA'22
-* Reviewer: TKDE, TNNLS, TOIS, TPAMI, WWWJ
-* PC member: ACML'20, AJCAI'23, CIKM'24'23'22'21'20, DASFAA'24'23, ICDE'20, ICDM'22'21, ICMR'23, IJCAI'24'23'20, SIGIR'24'23'20'19, SIGIR-AP'23, SIGMOD'20, VLDB'22'21, WSDM'23'22'21
-
-Updated on 20/3/2024.
+Updated on 22/3/2024.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
