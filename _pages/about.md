@@ -9,15 +9,15 @@ redirect_from:
 ---
 汤嫣然
 
-I am currently a PhD student at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>, supervised by <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a> and <a href="https://researchers.uq.edu.au/researcher/973" target="_blank"> Xue Li</a>. I obataied my degrees of Bachelor of Law (LL.B.) and Master of Law (LL.M.) from 2014 to 2021.
+I am currently a PhD student at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>, supervised by <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a> and <a href="https://researchers.uq.edu.au/researcher/973" target="_blank"> Xue Li</a>. I obataied my Bachelor of Law (LL.B.) and Master of Law (LL.M.) degrees in 2018 and 2021 respectively.
 
-My research focuses on artificial intelligence in legal domain, including legal data mining, legal case retrieval, graph neural network for legal etc.
+My research focuses on artificial intelligence in legal domain, including legal case retrieval and graph neural networks for legal cases etc.
 
 I speak Cantonese, English, and Mandarin.
 
 Publication
 =====
-<a href="https://scholar.google.com/citations?user=zbRZyuEAAAAJ" target="_blank">Google Scholar</a> page includes the full publication list.
+<a href="https://scholar.google.com.au/citations?user=KmR5XoQAAAAJ&hl=en" target="_blank">Google Scholar</a> page includes the full publication list.
 <style>
 td, th {
    border: none!important;
