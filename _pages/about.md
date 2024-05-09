@@ -41,7 +41,7 @@ td, th {
               <p></p>
               <p></p>
               <p>
-                We introduce an inductive graph learning paradigm for legal case retrieval to tackle the challenge of unseen testing query and candidate cases.
+                An inductive graph learning paradigm for legal case retrieval is proposed to tackle the challenge of unseen testing query and candidate cases .
               </p>
             </td>
           </tr>
@@ -61,7 +61,7 @@ td, th {
               <p></p>
               <p></p>
               <p>
-                We introduce a structural modelling of law case with GNN for effective retrieval.
+                A structural modelling of law case with GNN for effective retrieval is introduced.
               </p>
             </td>
           </tr>
@@ -81,7 +81,7 @@ td, th {
               <p></p>
               <p></p>
               <p>
-                We introduce an effective legal case retriver that focus on legal feature alignment with the aid of LM prompting and LLM summarisation.
+                An effective legal case retriver that focus on legal feature alignment with the aid of LM prompting and LLM summarisation is introduced.
               </p>
             </td>
           </tr>
