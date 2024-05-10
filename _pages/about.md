@@ -41,7 +41,7 @@ td, th {
               <p></p>
               <p></p>
               <p>
-                An inductive graph learning paradigm for legal case retrieval is proposed to tackle the challenge of unseen testing query and candidate cases .
+                An inductive graph learning paradigm for legal case retrieval is proposed to tackle the challenge of unseen testing query and candidate cases.
               </p>
             </td>
           </tr>
