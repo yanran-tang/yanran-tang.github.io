@@ -27,6 +27,26 @@ td, th {
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/CaseGNN++.jpg" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>CaseGNN++: Graph Contrastive Learning for Legal Case Retrieval with Graph Augmentation</strong>
+              <br>
+              <strong>Yanran Tang</strong>, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang
+              <br>
+              TOIS 2024 (Under review)
+              <br>
+              <a href="https://arxiv.org/abs/2405.11791" target="_blank">arXiv</a> /
+              <a href="https://github.com/yanran-tang/CaseGNN" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                An edge-updated graph attention layer (EUGAT) and a novel graph contrastive learning objective with graph augmentation are proposed to enhance the legal comprehension capabilities of CaseGNN++ model.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/caselink.jpg" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
