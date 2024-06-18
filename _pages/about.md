@@ -15,7 +15,16 @@ My research focuses on artificial intelligence in legal domain, including legal 
 
 I speak Cantonese, English, and Mandarin.
 
-Publication
+Talks
+=====
+* 05.2024 Give a talk, "Effective Representation Learning for Legal Case Retrieval", at IR Seminar, The University of Glasgow. [\[slides\]](../files/Glasgow_tyr_LCR.pdf){:target="_blank"}
+
+* 05.2024 Give a talk, "Effective Representation Learning for Legal Case Retrieval", at THUIR, Tsinghua University. [\[slides\]](../files/THUIR_tyr_LCR.pdf){:target="_blank"}
+
+* 03.2024 Give a talk, "Graph Neural Networks for Legal Case Retrieval with Text-Attributed Graphs", at [IRonGraphs Workshop at ECIR 2024](https://irongraphs.github.io/ecir2024/){:target="_blank"}. [\[slides\]](../files/ECIR_IRonGraph_tyr_LCR.pdf){:target="_blank"}
+
+
+Publications
 =====
 <a href="https://scholar.google.com.au/citations?user=KmR5XoQAAAAJ&hl=en" target="_blank">Google Scholar</a> page includes the full publication list.
 <style>
@@ -118,6 +127,6 @@ Honors and Awards
 * **UQ Graduate School Scholarship**, Graduate School, The University of Queensland (2023-2026)
 * **SCUT Graduate Scholarship**, School of Law, South China University of Technology (2018-2021)
 
-Updated on 7/4/2024.
+Updated on 18/6/2024.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
