@@ -17,7 +17,7 @@ I speak Cantonese, English, and Mandarin.
 
 Talks
 =====
-* 05.2024 Give a talk, "Effective Representation Learning for Legal Case Retrieval", at IR Seminar, The University of Glasgow. [\[slides\]](../files/Glasgow_tyr_LCR.pdf){:target="_blank"}
+* 06.2024 Give a talk, "Effective Representation Learning for Legal Case Retrieval", at IR Seminar, The University of Glasgow. [\[slides\]](../files/Glasgow_tyr_LCR.pdf){:target="_blank"}
 
 * 05.2024 Give a talk, "Effective Representation Learning for Legal Case Retrieval", at THUIR, Tsinghua University. [\[slides\]](../files/THUIR_tyr_LCR.pdf){:target="_blank"}
 
