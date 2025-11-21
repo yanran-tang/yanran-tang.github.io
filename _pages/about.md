@@ -36,6 +36,27 @@ td, th {
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
+              <img src="../images/ReaKase.png" alt="PontTuset" width="200" style="border-style: none">
+            </td>
+            <td width="75%" valign="middle">
+              <strong>ReaKase-8B: Legal Case Retrieval via Knowledge and Reasoning Representations with LLMs</strong>
+              <br>
+              <strong>Yanran Tang</strong>, Ruihong Qiu, Xue Li, Zi Huang
+              <br>
+              ADC 2025
+              <br>
+              <a href="https://arxiv.org/abs/2510.26178" target="_blank">arXiv</a> /
+              <a href="https://github.com/yanran-tang/ReaKase-8B" target="_blank">code</a>
+              <p></p>
+              <p></p>
+              <p>
+                A reasoning-enhanced LLM architecture that integrates structured legal knowledge to more effectively bridge the gap between case facts and judicial outcomes, thereby enabling more accurate legal case retrieval.
+              </p>
+            </td>
+          </tr>
+<tr><td colspan="2"><hr style="border-top:1px dashed;"></td></tr>
+          <tr>
+            <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/CaseGNN++.jpg" alt="PontTuset" width="200" style="border-style: none">
             </td>
             <td width="75%" valign="middle">
@@ -43,7 +64,7 @@ td, th {
               <br>
               <strong>Yanran Tang</strong>, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang
               <br>
-              TOIS 2024 (Under review)
+              Arxiv
               <br>
               <a href="https://arxiv.org/abs/2405.11791" target="_blank">arXiv</a> /
               <a href="https://github.com/yanran-tang/CaseGNN" target="_blank">code</a>
@@ -54,6 +75,7 @@ td, th {
               </p>
             </td>
           </tr>
+<tr><td colspan="2"><hr style="border-top:1px dashed;"></td></tr>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/caselink.jpg" alt="PontTuset" width="200" style="border-style: none">
@@ -74,6 +96,7 @@ td, th {
               </p>
             </td>
           </tr>
+<tr><td colspan="2"><hr style="border-top:1px dashed;"></td></tr>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/casegnn.jpg" alt="PontTuset" width="200" style="border-style: none">
@@ -94,6 +117,7 @@ td, th {
               </p>
             </td>
           </tr>
+<tr><td colspan="2"><hr style="border-top:1px dashed;"></td></tr>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="../images/PromptCase.jpg" alt="PontTuset" width="200" style="border-style: none">
@@ -127,6 +151,6 @@ Honors and Awards
 * **UQ Graduate School Scholarship**, Graduate School, The University of Queensland (2023-2026)
 * **SCUT Graduate Scholarship**, School of Law, South China University of Technology (2018-2021)
 
-Updated on 18/6/2024.
+Updated on 21/11/2025.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
