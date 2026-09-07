@@ -31,7 +31,6 @@ td, th {
 }
 </style>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size:1em;"><tbody>
-<tr><td colspan="2"><hr style="border-top:1px dashed;"></td></tr>
           <tr>
             <td style="padding:0 12px 0 0;width:25%;vertical-align:middle">
               <img src="https://dl.acm.org/cms/10.1145/3816732/asset/355a175e-2b15-410e-8170-ca8e802be5b1/assets/images/large/tois-2025-0614-f02.jpg" alt="PontTuset" width="200" style="border-style: none">
