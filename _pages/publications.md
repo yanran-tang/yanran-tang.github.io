@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Full collection of publications on <a href="https://scholar.google.com.au/citations?user=KmR5XoQAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+<a href="https://scholar.google.com.au/citations?user=KmR5XoQAAAAJ&hl=en" target="_blank">Google Scholar</a> page includes the full publication list.
 
 <!-- {% include base_path %}
 

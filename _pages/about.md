@@ -62,7 +62,7 @@ td, th {
               <br>
               <strong>Yanran Tang<strong>, Ruihong Qiu, Yilun Liu, Xue Li, Zi Huang
               <br>
-              WWW 2026
+              WWWJ 2026
               <br>
               <a href="https://link.springer.com/article/10.1007/s11280-026-01407-w" target="_blank">arXiv</a> /
               <a href="https://github.com/yanran-tang/CaseGNN" target="_blank">code</a>
@@ -176,6 +176,7 @@ MISC
 I speak Cantonese, Mandarin and English.
 
 <tr><td colspan="2"><hr style="border-top:1px dashed;"></td></tr>
+
 Updated on 07/09/2026.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
