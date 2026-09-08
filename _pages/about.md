@@ -63,7 +63,7 @@ td, th {
               <br>
               WWWJ 2026
               <br>
-              <a href="https://link.springer.com/article/10.1007/s11280-026-01407-w" target="_blank">arXiv</a> /
+              <a href="https://arxiv.org/abs/2405.11791" target="_blank">arXiv</a> /
               <a href="https://github.com/yanran-tang/CaseGNN" target="_blank">code</a>
               <p></p>
               <p></p>
