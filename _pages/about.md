@@ -42,7 +42,7 @@ td, th {
               <br>
               TOIS 2026
               <br>
-              <a href="https://dl.acm.org/doi/full/10.1145/3816732" target="_blank">arXiv</a> /
+              <a href="https://arxiv.org/abs/2609.08185" target="_blank">arXiv</a> /
               <a href="https://github.com/yanran-tang/Cassette/" target="_blank">code</a>
               <p></p>
               <p></p>
@@ -176,6 +176,6 @@ I speak Cantonese, Mandarin and English.
 
 <tr><td colspan="2"><hr style="border-top:1px dashed;"></td></tr>
 
-Updated on 07/09/2026.
+Updated on 09/09/2026.
 
 <a href="https://clustrmaps.com/site/19s77" style='display:none'><img src="//www.clustrmaps.com/map_v2.png?d=Tw7Q8kLeNymu7TJ95nz0DUJimmzCD4OCbzDHoJdERuY&cl=ffffff"></a>
