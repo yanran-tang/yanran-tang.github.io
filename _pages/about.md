@@ -9,7 +9,7 @@ redirect_from:
 ---
 汤嫣然
 
-I am currently a Postdoctoral Researcher at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I recently completed my PhD at UQ, supervised by Professors <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a> and <a href="https://researchers.uq.edu.au/researcher/973" target="_blank"> Xue Li</a>. I obataied my Bachelor of Law (LL.B.)⚖️ and Master of Law (LL.M.)⚖️ degrees in 2018 and 2021 respectively.
+I am currently a Postdoctoral Research Fellow in <a href="https://eecs.uq.edu.au/" target="_blank"> School of Electrical Engineering and Computer Science (EECS)</a> at <a href="https://www.uq.edu.au" target="_blank"> The University of Queensland (UQ)</a>. I recently completed my PhD in Computer Science at UQ, supervised by Professors <a href="http://staff.itee.uq.edu.au/huang/" target="_blank"> Helen Huang</a> and <a href="https://researchers.uq.edu.au/researcher/973" target="_blank"> Xue Li</a>. Prior to my PhD, I obataied my Bachelor of Law (LL.B.)⚖️ and Master of Law (LL.M.)⚖️ degrees in 2018 and 2021 respectively.
 
 My research focuses on artificial intelligence for the legal domain, particularly legal information retrieval, legal reasoning, and legal decision-making. I am especially interested in graph neural networks (GNNs) and large language models (LLMs), and their applications to real-world legal tasks.
 
